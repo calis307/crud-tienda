@@ -1,4 +1,4 @@
-# En esta rama se ha agregado una db mongo en lugar de un local.json
+# En esta rama se ha agregado una db mongo en lugar de un local.json, en la parte de abajo del fichero server.js hay una serie de códigos comentados, ambas alternativas permiten levantar el servidor con MongoDB en lugar de usar un json local
 Se debe instalar la dependencia:
 npm install mongodb
 

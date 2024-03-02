@@ -190,29 +190,7 @@ app.listen(port, () => {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// Alternativa 1 MongoDB
 
 
 /* const express = require("express");
@@ -351,9 +329,10 @@ app.listen(port, () => {
  */
 
 
+// Alternativa 2 MongoDB
+
+
 /**
-
-
 const express = require("express");
 const { MongoClient, ObjectId } = require("mongodb");
 const cors = require("cors");
